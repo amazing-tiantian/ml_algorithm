@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+   <dict>
+       <key>items</key>
+       <array>
+           <dict>
+               <key>assets</key>
+              <array>
+                  <dict>
+                      <key>kind</key>
+                      <string>software-package</string>
+                    <key>url</key>
+                     <string>https://paymenttest.bankcomm.com/mmp_UAT/qrcode/mdb.ipa</string>
+                   </dict>
+                   <dict>
+                       <key>kind</key>
+                       <string>full-size-image</string>
+                       <key>needs-shine</key>
+                       <false/>
+                       <key>url</key>
+                       <string></string>
+                   </dict>
+                   <dict>
+                       <key>kind</key>
+                       <string>display-image</string>
+                       <key>needs-shine</key>
+                       <false/>
+                       <key>url</key>
+                       <string>111<string>
+                   </dict>
+               </array>
+               <key>metadata</key>
+               <dict>
+                   <key>bundle-identifier</key>
+                   <string>com.yitong.uat1</string>
+                   /key>
+                   <string>packName</string>
+               </dict>
+           </dict>
+       </array>
+   </dict>
+</plist>
+
